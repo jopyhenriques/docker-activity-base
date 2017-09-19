@@ -6,8 +6,6 @@ MAINTAINER Jopy Henriques (jopy.c.henriques@accenture.com)
 
 ADD ./ .
 
-# Change permission to wait-for-it.sh
-RUN chmod 755 wait-for-it.sh
 
 # install all needed packages
 
